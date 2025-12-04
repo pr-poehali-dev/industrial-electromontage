@@ -128,15 +128,15 @@ const Index = () => {
             </div>
             <div className="grid grid-cols-3 gap-8 mt-16">
               <div>
-                <div className="text-4xl font-bold text-accent mb-2">15+</div>
-                <div className="text-white/80">лет на рынке</div>
+                <div className="text-4xl font-bold text-accent mb-2"></div>
+                <div className="text-white/80"></div>
               </div>
               <div>
-                <div className="text-4xl font-bold text-accent mb-2">200+</div>
+                <div className="text-4xl font-bold text-accent mb-2">10+</div>
                 <div className="text-white/80">завершенных проектов</div>
               </div>
               <div>
-                <div className="text-4xl font-bold text-accent mb-2">50+</div>
+                <div className="text-4xl font-bold text-accent mb-2">10+</div>
                 <div className="text-white/80">специалистов</div>
               </div>
             </div>
