@@ -121,9 +121,7 @@ const Index = () => {
             <h1 className="text-5xl md:text-6xl font-bold mb-6">
               Электромонтажные работы промышленного масштаба
             </h1>
-            <p className="text-xl text-white/90 mb-8">
-              Полный спектр услуг по проектированию, монтажу и обслуживанию электротехнического оборудования для промышленных предприятий
-            </p>
+            <p className="text-xl text-white/90 mb-8">Полный спектр услуг по  монтажу и обслуживанию электротехнического оборудования для промышленных предприятий</p>
             <div className="flex flex-wrap gap-4">
               <Button size="lg" onClick={() => scrollToSection('portfolio')} className="bg-accent hover:bg-accent/90">
                 Наши проекты
