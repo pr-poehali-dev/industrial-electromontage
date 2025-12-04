@@ -39,7 +39,7 @@ const Index = () => {
 
   const projects = [
     {
-      title: 'Электромонтаж завода автокомпонентов',
+      title: 'Монтаж дополнительного освещения',
       image: 'https://cdn.poehali.dev/projects/395ee2e1-93d5-40f3-97d9-c356fd116689/files/2bc0a1ab-44be-40d9-804a-10ae7ff47543.jpg',
       power: '2500 кВт',
       duration: '4 месяца',
